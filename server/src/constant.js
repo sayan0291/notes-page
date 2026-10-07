@@ -1,1 +1,1 @@
-export const CLOUD_NAME = ""
+export const CLOUD_NAME = "dasjollso"
